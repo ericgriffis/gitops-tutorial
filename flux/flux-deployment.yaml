@@ -100,7 +100,7 @@ spec:
         - --ssh-keygen-dir=/var/fluxd/keygen
 
         # replace or remove the following URL
-        - --git-url=git@github.com:ericgriffis/flux-get-started
+        - --git-url=git@github.com:ericgriffis/gitops-tutorial.git
         - --git-path=deploy/kubernetes
         - --git-branch=master
 
